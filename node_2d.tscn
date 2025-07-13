@@ -1,6 +1,7 @@
 [gd_scene load_steps=2 format=3 uid="uid://6j7x27551l50"]
 
-[ext_resource type="Script" uid="uid://dvpoelb03ulnd" path="res://functions.gd" id="1_wtcfe"]
+[ext_resource type="Script" uid="uid://c2f6ntjxifg64" path="res://DictionariesAndList.gd" id="1_wtcfe"]
 
 [node name="Node2D" type="Node2D"]
+position = Vector2(0, 3)
 script = ExtResource("1_wtcfe")
